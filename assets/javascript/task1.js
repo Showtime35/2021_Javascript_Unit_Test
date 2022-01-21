@@ -1,6 +1,7 @@
 /* Put code for the task below */
-function functionName(){
-	alert("Run My Stuff");
+function ShowButt(){
+	var button1 = document.getelementbyid("buttonTask1")
 	
-	
+
+
 }
